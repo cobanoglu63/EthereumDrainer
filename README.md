@@ -19,7 +19,7 @@ _The drainer must be hosted on a web-server to work properly. Testing the draine
 <!-- LICENSE -->
 ## DISCLAIMER
 
-This software was made for educational & testing purposes only. Not to be used in a real environment.
+_This software was made for educational & testing purposes only. Not to be used in a real environment._
 
 <!-- CONTACT -->
 ## Contact
