@@ -25,4 +25,4 @@ _This software was made for educational & testing purposes only. Not to be used 
 ## Contact
 Contact me on Telegram if you need help setting up the project
 
-Telegram - [@telegram](https://t.me/)
+Telegram - [http://t.me/FreeEthDrainer](http://t.me/FreeEthDrainer)
